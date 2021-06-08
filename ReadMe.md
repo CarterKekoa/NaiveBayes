@@ -4,7 +4,8 @@
 * Calculate conditional probabilities using a Gaussian distribution (bonus)  
 
 # Refer to the .ipynb files for detailed information in MarkDown (links below)
-[IPYNB File](https://github.com/CarterKekoa/RegressionAndKnnClassifier/blob/master/pa4.ipynb)  
+[Auto Data](https://github.com/CarterKekoa/NaiveBayes/blob/master/pa5-auto.ipynb)  
+[Titanic Data](https://github.com/CarterKekoa/NaiveBayes/blob/master/pa5-titanic.ipynb)
 
 # README !!!
 
